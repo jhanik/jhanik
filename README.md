@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zahid Hasan
+- 👀 I’m interested in web development, Data Science, Machine learning, Deep Learning
+- 🌱 I’m currently working as a software developer at Transcom Limited. I am developing ERP web application with laravel and vuejs.
+- 💞
+- 📫 You can reach me through Email: jhanik525351@gmail.com
